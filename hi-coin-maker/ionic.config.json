@@ -1,0 +1,7 @@
+{
+  "name": "hi-coin-maker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

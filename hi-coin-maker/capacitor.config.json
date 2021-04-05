@@ -1,0 +1,13 @@
+{
+  "appId": "com.HiCoinMaker.application",
+  "appName": "hi-coin-maker",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
